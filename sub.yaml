@@ -195,6 +195,7 @@ proxy-groups:
   - type: select
     name: 🎬 流媒体
     proxies:
+      - DIRECT
       - ⚡ 自动选择
   - type: select
     name: 🎮 游戏平台
