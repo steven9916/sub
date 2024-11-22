@@ -127,7 +127,6 @@ proxies:
         host: 9916.us.kg
     tfo: false
     skip-cert-verify: false
-
 proxy-groups:
   - type: select
     name: 🚀 节点选择
@@ -158,112 +157,297 @@ proxy-groups:
   - type: select
     name: 🛑 广告拦截
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 💬 AI 服务
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 📺 哔哩哔哩
     proxies:
+      - 🚀 节点选择
       - DIRECT
-
+      - REJECT
+      - ⚡ 自动选择
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 📹 油管视频
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🔍 谷歌服务
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🏠 私有网络
     proxies:
+      - 🚀 节点选择
       - DIRECT
-
+      - REJECT
+      - ⚡ 自动选择
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🔒 国内服务
     proxies:
+      - 🚀 节点选择
       - DIRECT
-
+      - REJECT
+      - ⚡ 自动选择
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 📲 电报消息
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🐱 Github
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: Ⓜ️ 微软服务
     proxies:
       - 🚀 节点选择
       - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🍏 苹果服务
     proxies:
       - 🚀 节点选择
       - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🌐 社交媒体
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🎬 流媒体
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🎮 游戏平台
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 📚 教育资源
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 💰 金融服务
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: ☁️ 云服务
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🌐 非中国
     proxies:
+      - 🚀 节点选择
       - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: tumblr
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: potato
     proxies:
+      - 🚀 节点选择
+      - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
   - type: select
     name: 🐟 漏网之鱼
     proxies:
+      - 🚀 节点选择
       - DIRECT
+      - REJECT
       - ⚡ 自动选择
-
+      - '9916'
+      - steven
+      - zxing
+      - luyou.steven9916.eu.org
+      - zxing.us.kg
+      - zx9916.us.kg
+      - 9916.us.kg
 rules:
   - DOMAIN-SUFFIX,tumblr.com,tumblr
   - DOMAIN-SUFFIX,potato.im,potato
@@ -282,7 +466,7 @@ rules:
   - GEOIP,telegram,📲 电报消息
   - GEOSITE,github,🐱 Github
   - GEOSITE,gitlab,🐱 Github
- - DOMAIN-SUFFIX,raw.githubusercontent.com,🐱 Github
+  - DOMAIN-SUFFIX,raw.githubusercontent.com,🐱 Github
   - GEOSITE,microsoft,Ⓜ️ 微软服务
   - GEOSITE,apple,🍏 苹果服务
   - GEOSITE,facebook,🌐 社交媒体
